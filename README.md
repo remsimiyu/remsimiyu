@@ -55,7 +55,7 @@ Coming soon! I'm working on projects that demonstrate my frontend and backend de
 
 ### 🤝 Let's Connect
 
-- GitHub: https://github.com/rem422
+- GitHub: https://github.com/remsimiyu
 
 ---
 

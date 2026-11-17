@@ -1,30 +1,62 @@
-
 # Hi, I'm Rem Simiyu 👋
 
-### Frontend Developer | Aspiring Full-Stack Developer
+### Full-Stack Developer | Building for the Web 🚀
 
-I'm passionate about building modern, responsive and user-friendly web applications.
+I'm a passionate developer focused on building modern, responsive and scalable web applications.
 
-- 🌱 Currently learning TypeScript and backend development
-- 💻 Working with React, Next.js and Tailwind CSS
-- ☁️ Exploring Cloud Engineering and AWS
-- 🎯 Goal: Become a skilled Full-Stack Developer
-- 🚀 Interested in building real-world software solutions
+I enjoy working across the frontend and backend, turning ideas into real-world digital products.
 
-### My Tech Stack
+### 👨‍💻 About Me
 
-- HTML
-- CSS
+- 💻 Interested in Full-Stack Web Development
+- 🌱 Currently improving my JavaScript and TypeScript skills
+- ⚛️ Learning React and Next.js
+- 🔧 Exploring Node.js, Express and databases
+- ☁️ Interested in Cloud Engineering and DevOps
+- 🎯 Working towards becoming a professional Full-Stack Engineer
+
+### 🛠️ Technologies & Tools
+
+**Frontend**
+- HTML5
+- CSS3
 - JavaScript
+- TypeScript
 - React
 - Next.js
 - Tailwind CSS
-- TypeScript (Learning)
+
+**Backend**
+- Node.js
+- Express.js
+- REST APIs
+
+**Databases**
+- PostgreSQL
+- MongoDB
+
+**Tools**
 - Git & GitHub
+- VS Code
+- Postman
+- Docker (Learning)
 
-### Goals
-- Build meaningful projects
-- Improve my problem-solving skills
-- Learn backend and cloud technologies
-- Contribute to open-source projects
+### 🚀 What I'm Working Towards
 
+- Building full-stack web applications
+- Developing secure backend APIs
+- Working with databases
+- Learning deployment and cloud technologies
+- Contributing to open-source projects
+
+### 📌 Featured Projects
+
+Coming soon! I'm working on projects that demonstrate my frontend and backend development skills.
+
+### 🤝 Let's Connect
+
+- GitHub: https://github.com/rem422
+
+---
+
+⭐ Always learning, building and improving.
